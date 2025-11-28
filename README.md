@@ -3,7 +3,10 @@
 Este é um visualizador de vulnerabilidades simples, desenvolvido em PHP, que utiliza a API 2.0 do National Vulnerability Database (NVD) para buscar e exibir informações sobre Common Vulnerabilities and Exposures (CVEs).
 
 O projeto consiste em uma interface web onde o usuário pode pesquisar por um termo (como um produto, fornecedor ou tecnologia) e visualizar uma lista das vulnerabilidades mais recentes relacionadas, ordenadas por data de publicação.﻿
-1763776515465.jpeg 53.13 KB
+
+<img width="800" height="462" alt="image" src="https://github.com/user-attachments/assets/305b3c25-e4ea-47dd-a723-d4c311d479e1" />
+
+
 ﻿✨ Funcionalidades
 
     Busca por Palavra-chave: Pesquise em toda a base de dados do NVD por qualquer termo.
@@ -54,5 +57,6 @@ Para que o script funcione, é essencial obter uma chave de API gratuita do NVD.
 
 
 Link do repositório: https://github.com/yuri-spm/cveapi
+
 
 
